@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Spazzlo/folderclone) 
+
 # folderclone - A project that allows you copy large folders to Shared Drives.
 
 
